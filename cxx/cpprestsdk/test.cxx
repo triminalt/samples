@@ -17,6 +17,8 @@ int main (int argc, char** argv) {
 
     GetQuanminLiveList();
 
+    DumpTrash("");
+
     system("pause");
     return 0;
 }

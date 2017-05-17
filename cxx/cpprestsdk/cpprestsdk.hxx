@@ -13,6 +13,6 @@ void BingSearch();
 
 void GetQuanminLiveList();
 
-void DumpTrash();
+void DumpTrash(std::string const& const file);
 
 #endif // CPPRESTSDK_BAIDU_HXX__
